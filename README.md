@@ -6,17 +6,14 @@ My Stack is mainly JS
 
 - Node.js (Typescript).
 - - PostgresSQL
-        Mongodb
-        Fastify
-        Express
-    React (Typescript)
-        NextJs
-        Redux.
-    Devops
-        AWS (SQS, LAMBDAS, RDS, Elastic Beanstalked And many more...)
-        Puppteer / Cypress.
+- - Mongodb
+- - Fastify
+- - Express
+- React (Typescript)
+- - NextJs
+- - Redux.
+- Devops
+- - AWS (SQS, LAMBDAS, RDS, Elastic Beanstalked And many more...)
+- - Puppteer / Cypress.
 
-   Do you want me to contribute to your project? Email me at: nevo@novu.co
-
-
-### Hi there 👋
+👋 Do you want me to contribute to your project? Email me at: nevo@novu.co
