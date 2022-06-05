@@ -4,8 +4,8 @@
 
 My Stack is mainly JS
 
-    Node.js (Typescript).
-        PostgresSQL
+- Node.js (Typescript).
+- - PostgresSQL
         Mongodb
         Fastify
         Express
