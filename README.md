@@ -16,4 +16,4 @@ My Stack is mainly JS
 - - AWS (SQS, LAMBDAS, RDS, Elastic Beanstalked And many more...)
 - - Puppteer / Cypress.
 
-👋 Do you want me to contribute to your project? Email me at: nevo@novu.co
+👋 Do you want me to contribute to your project? Email me at: contact@nestormosquera.co
