@@ -16,4 +16,8 @@ My Stack is mainly JS
 - - AWS (SQS, LAMBDAS, RDS, Elastic Beanstalked And many more...)
 - - Puppteer / Cypress.
 
+## Some of my stats are:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NestorMosqueraBlandon)](https://github.com/NestorMosqueraBlandon/github-readme-stats)
+
+
 👋 Do you want me to contribute to your project? Email me at: contact@nestormosquera.co
