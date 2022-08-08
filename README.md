@@ -5,6 +5,7 @@
 My Stack is mainly JS
 
 - Node.js (Typescript).
+- - MySQL 
 - - PostgresSQL
 - - Mongodb
 - - Fastify
@@ -12,7 +13,9 @@ My Stack is mainly JS
 - React (Typescript)
 - - NextJs
 - - Redux.
+- - Redux Toolkit
 - Devops
+- - Azure
 - - AWS (SQS, LAMBDAS, RDS, Elastic Beanstalked And many more...)
 - - Puppteer / Cypress.
 
